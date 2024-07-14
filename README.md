@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowtham-devadiga
 - 👀 I’m interested in web development and dsa..
-- 🌱 I’m currently learning javascript and dsa ..
+- 🌱 I’m currently learning devops and dsa ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @gowthamndevadiga@gmail.com...
 
